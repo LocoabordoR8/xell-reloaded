@@ -1,8 +1,8 @@
-build/*
-nbproject/*
+build/
+nbproject/
 source/lv2/version.h
-*.bin
-*.elf
-*.elf32
-*.elf32.gz
-*.tar.gz
+.bin
+.ELF 
+.elf32 
+.elf32.gz
+.tar.gz
